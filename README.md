@@ -19,12 +19,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahfuzul-niko&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuzul-niko&layout=compact&theme=radical)  
-
----
-
 ## 🌟 Featured Projects
 - 🛒 **Inventory & POS System** – for supermarkets with order & stock management  
 - 🏨 **Hotel Booking System** – with dynamic pricing and extra bed features  
