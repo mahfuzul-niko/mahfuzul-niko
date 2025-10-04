@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Mahfuz  
+💻 Full-Stack Web Developer | Laravel • React • Tailwind CSS  
 
-<!--
-**mahfuzul-niko/mahfuzul-niko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 Passionate about building **modern web apps**  
+- ⚡ Skilled in **Laravel 11, PHP, React, Tailwind CSS, MySQL**  
+- 🤝 Open to **collaboration and freelance projects**  
+- 🎯 Goal: Delivering **clean, efficient, and user-friendly solutions**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+**Frontend:** HTML • CSS • JavaScript • React • Tailwind CSS  
+**Backend:** PHP • Laravel 11 • REST APIs  
+**Database:** MySQL • SQLite  
+**Tools & Others:** Git • GitHub • VS Code • Postman  
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahfuzul-niko&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuzul-niko&layout=compact&theme=radical)  
+
+---
+
+## 🌟 Featured Projects
+- 🛒 **Inventory & POS System** – for supermarkets with order & stock management  
+- 🏨 **Hotel Booking System** – with dynamic pricing and extra bed features  
+- 🎓 **Student Job Prep Site** – Q/A platform for job interview preparation  
+
+---
+
+## 📫 Connect with Me
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/mahfuzul-niko)  
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue)](https://www.facebook.com/thisismahfuzofficial)  
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink)](https://www.instagram.com/thisismahfuzofficial/)  
+[![Website](https://img.shields.io/badge/Website-Visit-brightgreen)](https://www.thisismahfuz.com/)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green)](https://wa.me/8801890517777)  
+
+---
+
+⭐️ From [mahfuzul-niko](https://github.com/mahfuzul-niko)
