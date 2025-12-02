@@ -30,7 +30,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/mahfuzul-niko)  
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue)](https://www.facebook.com/thisismahfuzofficial)  
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-pink)](https://www.instagram.com/thisismahfuzofficial/)  
-[![Website](https://img.shields.io/badge/Website-Visit-brightgreen)](https://www.thisismahfuz.com/)  
+[![Website](https://img.shields.io/badge/Website-Visit-brightgreen)](https://www.thisisniko.com/)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green)](https://wa.me/8801890517777)  
 
 ---
