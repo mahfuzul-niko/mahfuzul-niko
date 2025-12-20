@@ -36,3 +36,22 @@
 ---
 
 ⭐️ From [mahfuzul-niko](https://github.com/mahfuzul-niko)
+
+
+## Live Projects
+
+Here are several production and client projects I have worked on:
+
+- **Aronnonibash** – https://aronnonibash.com  
+- **Kemea** – https://kemea.sohojware.com  
+- **Samaira Group** – https://samairagroup.com  
+- **Aranis** – https://thearanis.com  
+- **EduOrganizer** – https://app.eduorganizer.info  
+- **Appletouch** – https://appletouch.axisshopbd.com  
+- **Urban Glean** – https://urban.axisshopbd.com  
+- **Leaf & Life** – https://leaf.axisshopbd.com  
+- **Global Care** – https://globalcare.axisshopbd.com  
+- **Sobo Life Style** – https://sobo.axisshopbd.com  
+- **Dream Extreme** – https://dreamextremebd.com  
+- **Moraqo** – https://moraqo.com  
+- **Bikroy Shop** – https://bikroyshop.com
