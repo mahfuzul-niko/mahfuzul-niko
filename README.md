@@ -53,7 +53,7 @@ Q/A based learning platform with categorized questions for job interview prepara
 ---
 
 ## 📄 View My Resume  
-**👉 [Click to View Resume](https://drive.google.com/file/d/1TkUP_VQUzHtCVG1_HvVL3GyD0l49P6Ne/view?usp=sharing)**
+**👉 [Click to View Resume]([https://drive.google.com/file/d/1TkUP_VQUzHtCVG1_HvVL3GyD0l49P6Ne/view?usp=sharing](https://drive.google.com/file/d/1TkUP_VQUzHtCVG1_HvVL3GyD0l49P6Ne/view?usp=sharing))**
 
 ---
 
