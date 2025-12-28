@@ -1,35 +1,68 @@
 # 👋 Hi, I'm Mahfuz  
-💻 Full-Stack Web Developer | Laravel • Bootstrap • Tailwind CSS • AJAX   
+### 💻 Full-Stack Web Developer | Laravel • React • JavaScript • AJAX • DevOps Basics  
 
 ---
 
-## 🚀 About Me
-- 🌱 Passionate about building **modern web apps**  
-- ⚡ Skilled in **Laravel 11, PHP, React, Tailwind CSS, MySQL**  
-- 🤝 Open to **collaboration and freelance projects**  
-- 🎯 Goal: Delivering **clean, efficient, and user-friendly solutions**
+## 🚀 About Me  
+I am a passionate Full-Stack Web Developer focused on building **scalable, secure, and user-friendly** web applications.  
+I specialize in **Laravel** and **modern JavaScript frameworks**, with hands-on experience deploying and managing applications using **WHM/cPanel** and basic DevOps practices.
+
+I enjoy clean architecture, optimized queries, and delivering solutions that create real business value.
 
 ---
 
 ## 🛠️ Tech Stack
-**Frontend:** HTML • CSS • JavaScript • React • Tailwind CSS  
-**Backend:** PHP • Laravel 11 • REST APIs  
-**Database:** MySQL • SQLite  
-**Tools & Others:** Git • GitHub • VS Code • Postman  
+
+### **Frontend**
+- HTML, CSS, JavaScript  
+- jQuery, AJAX  
+- React  
+- Tailwind CSS, Bootstrap  
+
+### **Backend**
+- PHP, Laravel  
+- RESTful APIs  
+- Authentication & Authorization (Sanctum / Passport)
+
+### **Database**
+- MySQL, SQLite  
+
+### **Tools & DevOps**
+- Git, GitHub  
+- VS Code  
+- Postman  
+- WHM/cPanel Deployment  
+- Basic DevOps (server setup, SSL, environment configuration)
 
 ---
 
 ## 🌟 Featured Projects
-- 🛒 **Inventory & POS System** – for supermarkets with order & stock management  
-- 🏨 **Hotel Booking System** – with dynamic pricing and extra bed features  
-- 🎓 **Student Job Prep Site** – Q/A platform for job interview preparation  
+
+### 🛒 E-commerce Platform  
+Fully functional system including product management, stock, cart, checkout logic, coupon system, order tracking, and admin panel.
+
+### 🛒 Inventory & POS System  
+Supermarket-level POS with invoice, purchase, sale, stock tracking, reporting, and multi-user roles.
+
+### 🏨 Hotel Booking System  
+Supports dynamic pricing, extra bed logic, booking calendar, user roles, and automated calculations.
+
+### 🎓 Student Job Preparation Platform  
+Q/A based learning platform with categorized questions for job interview preparation.
 
 ---
 
-## 📫 Connect with Me
+## 📄 View My Resume  
+**👉 [Click to View Resume](https://drive.google.com/file/d/1TkUP_VQUzHtCVG1_HvVL3GyD0l49P6Ne/view?usp=sharing)**
+
+---
+
+## 📬 Connect With Me  
+I’m open to collaboration, freelance work, and full-time opportunities.
+
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/mahfuzul-niko)  
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue)](https://www.facebook.com/thisismahfuzofficial)  
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink)](https://www.instagram.com/thisismahfuzofficial/)  
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue)](https://www.facebook.com/MahfuzulNiko)  
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink)](https://www.instagram.com/MahfuzulNiko/)  
 [![Website](https://img.shields.io/badge/Website-Visit-brightgreen)](https://www.thisisniko.com/)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green)](https://wa.me/8801890517777)  
 
