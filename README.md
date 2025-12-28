@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Mahfuz  
-💻 Full-Stack Web Developer | Laravel • React • Tailwind CSS  
+💻 Full-Stack Web Developer | Laravel • Bootstrap • Tailwind CSS • AJAX   
 
 ---
 
