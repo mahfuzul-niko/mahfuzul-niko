@@ -84,7 +84,7 @@ Here are several production and client projects I have worked on:
 - **Urban Glean** – https://urban.axisshopbd.com  
 - **Leaf & Life** – https://leaf.axisshopbd.com  
 - **Global Care** – https://globalcare.axisshopbd.com  
-- **Sobo Life Style** – https://sobo.axisshopbd.com  
+- **Sobo Life Style** – https://sobolifestyles.com  
 - **Dream Extreme** – https://dreamextremebd.com  
 - **Moraqo** – https://moraqo.com  
 - **Bikroy Shop** – https://bikroyshop.com
