@@ -1,91 +1,161 @@
-# 👋 Hi, I'm Mahfuz  
-### 💻 Full-Stack Web Developer | Laravel • React • JavaScript • AJAX • DevOps Basics  
+# Hey, I'm Mahfuz 👋  
+### 🚀 Full-Stack Developer | Laravel • React • AI Integrations • DevOps Basics  
 
 ---
 
-## 🚀 About Me  
-I am a passionate Full-Stack Web Developer focused on building **scalable, secure, and user-friendly** web applications.  
-I specialize in **Laravel** and **modern JavaScript frameworks**, with hands-on experience deploying and managing applications using **WHM/cPanel** and basic DevOps practices.
+## 💡 Turning Ideas into Real Digital Products
 
-I enjoy clean architecture, optimized queries, and delivering solutions that create real business value.
+I’m a passionate **Full-Stack Web Developer** from Bangladesh focused on building **modern, scalable, secure, and business-driven web applications**.  
 
----
+My strongest expertise is in **Laravel backend development**, but I also build responsive frontends with **React & JavaScript**, integrate APIs, optimize databases, and deploy production-ready systems.
 
-## 🛠️ Tech Stack
-
-### **Frontend**
-- HTML, CSS, JavaScript  
-- jQuery, AJAX  
-- React  
-- Tailwind CSS, Bootstrap  
-
-### **Backend**
-- PHP, Laravel  
-- RESTful APIs  
-- Authentication & Authorization (Sanctum / Passport)
-
-### **Database**
-- MySQL, SQLite  
-
-### **Tools & DevOps**
-- Git, GitHub  
-- VS Code  
-- Postman  
-- WHM/cPanel Deployment  
-- Basic DevOps (server setup, SSL, environment configuration)
+I enjoy solving real problems with clean architecture, performance-focused code, and smart automation.
 
 ---
 
-## 🌟 Featured Projects
+# 🛠️ Tech Arsenal
 
-### 🛒 E-commerce Platform  
-Fully functional system including product management, stock, cart, checkout logic, coupon system, order tracking, and admin panel.
+## ⚡ Frontend
+- HTML5, CSS3, JavaScript (ES6+)
+- React.js
+- jQuery, AJAX
+- Tailwind CSS
+- Bootstrap
+- Responsive UI / UX
 
-### 🛒 Inventory & POS System  
-Supermarket-level POS with invoice, purchase, sale, stock tracking, reporting, and multi-user roles.
+## 🔥 Backend
+- PHP
+- Laravel
+- RESTful APIs
+- Authentication (Sanctum / Passport)
+- Role & Permission Systems
+- Queue Jobs / Notifications
+- Payment Gateway Integration
 
-### 🏨 Hotel Booking System  
-Supports dynamic pricing, extra bed logic, booking calendar, user roles, and automated calculations.
+## 🗄️ Database
+- MySQL
+- SQLite
+- Query Optimization
+- Complex Reports & Dashboards
 
-### 🎓 Student Job Preparation Platform  
-Q/A based learning platform with categorized questions for job interview preparation.
+## 🤖 AI Integrations
+- OpenAI API
+- Whisper API
+- ElevenLabs API
+- AI Content Generation
+- Voice Automation
+- Smart Workflow Systems
+
+## ⚙️ Tools & DevOps
+- Git & GitHub
+- Postman
+- VS Code
+- Docker (Basics)
+- WHM / cPanel
+- VPS Deployment
+- SSL Setup
+- Environment Configuration
+- CI/CD Basics
 
 ---
 
-## 📄 View My Resume  
-**👉 [Click to View Resume]([https://drive.google.com/file/d/1TkUP_VQUzHtCVG1_HvVL3GyD0l49P6Ne/view?usp=sharing](https://drive.google.com/file/d/1TkUP_VQUzHtCVG1_HvVL3GyD0l49P6Ne/view?usp=sharing))**
+# 🌟 Featured Projects
+
+## 🛒 E-Commerce Platform
+Complete online store with:
+- Product management
+- Cart & checkout
+- Coupons
+- Order tracking
+- Admin dashboard
+- Inventory system
+
+## 🏪 Inventory & POS System
+Powerful supermarket solution with:
+- POS billing
+- Purchase & sales
+- Supplier management
+- Stock reports
+- Multi-user roles
+- Profit analytics
+
+## 🏨 Hotel Booking System
+Advanced hotel reservation platform featuring:
+- Dynamic room pricing
+- Booking calendar
+- Extra bed logic
+- Automated calculations
+- Admin controls
+- Customer booking flow
+
+## 🎓 Job Preparation Platform
+Learning system with:
+- MCQ & Q/A practice
+- Category-based exams
+- Progress tracking
+- Student dashboard
+
+## 🏭 Enterprise Business Systems
+Worked on internal company systems, dashboards, ERP-style platforms, and large multi-site business management solutions.
+
+## 🤖 AI Powered Apps
+Built custom AI solutions with:
+- Chat systems
+- Voice generation
+- Smart recommendations
+- Automated workflows
+- Content generation tools
 
 ---
 
-## 📬 Connect With Me  
-I’m open to collaboration, freelance work, and full-time opportunities.
+# 🌐 Live Projects
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/mahfuzul-niko)  
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue)](https://www.facebook.com/MahfuzulNiko)  
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink)](https://www.instagram.com/MahfuzulNiko/)  
-[![Website](https://img.shields.io/badge/Website-Visit-brightgreen)](https://www.thisisniko.com/)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green)](https://wa.me/8801890517777)  
+- 🔗 **Aronnonibash** — https://aronnonibash.com  
+- 🔗 **Kemea** — https://kemea.sohojware.com  
+- 🔗 **Samaira Group** — https://samairagroup.com  
+- 🔗 **Aranis** — https://thearanis.com  
+- 🔗 **EduOrganizer** — https://app.eduorganizer.info  
+- 🔗 **Appletouch** — https://appletouch.axisshopbd.com  
+- 🔗 **Urban Glean** — https://urban.axisshopbd.com  
+- 🔗 **Leaf & Life** — https://leaf.axisshopbd.com  
+- 🔗 **Global Care** — https://globalcare.axisshopbd.com  
+- 🔗 **Sobo Lifestyle** — https://sobolifestyles.com  
+- 🔗 **Dream Extreme** — https://dreamextremebd.com  
+- 🔗 **Moraqo** — https://moraqo.com  
+- 🔗 **Bikroy Shop** — https://bikroyshop.com  
+- 🔗 **AI Quiz App** — https://ajbusiness26.vercel.app/
 
 ---
 
-⭐️ From [mahfuzul-niko](https://github.com/mahfuzul-niko)
+# 📄 Resume
 
+### 👉 [View My Resume](https://drive.google.com/file/d/1TkUP_VQUzHtCVG1_HvVL3GyD0l49P6Ne/view?usp=sharing)
 
-## Live Projects
+---
 
-Here are several production and client projects I have worked on:
+# 📬 Let's Connect
 
-- **Aronnonibash** – https://aronnonibash.com  
-- **Kemea** – https://kemea.sohojware.com  
-- **Samaira Group** – https://samairagroup.com  
-- **Aranis** – https://thearanis.com  
-- **EduOrganizer** – https://app.eduorganizer.info  
-- **Appletouch** – https://appletouch.axisshopbd.com  
-- **Urban Glean** – https://urban.axisshopbd.com  
-- **Leaf & Life** – https://leaf.axisshopbd.com  
-- **Global Care** – https://globalcare.axisshopbd.com  
-- **Sobo Life Style** – https://sobolifestyles.com  
-- **Dream Extreme** – https://dreamextremebd.com  
-- **Moraqo** – https://moraqo.com  
-- **Bikroy Shop** – https://bikroyshop.com
-- **Ai Quiz** –[ https://ajbusiness26.vercel.app](https://ajbusiness26.vercel.app/)
+I’m available for:
+
+✅ Freelance Projects  
+✅ Remote Jobs  
+✅ Full-Time Opportunities  
+✅ Startup Collaborations  
+
+### 🌍 Find Me Online
+
+- 💻 GitHub: https://github.com/mahfuzul-niko  
+- 🌐 Website: https://www.thisisniko.com  
+- 📘 Facebook: https://www.facebook.com/MahfuzulNiko  
+- 📷 Instagram: https://www.instagram.com/MahfuzulNiko/  
+- 💬 WhatsApp: https://wa.me/8801890517777  
+
+---
+
+# ⭐ Fun Fact
+
+I love transforming complex business ideas into simple and elegant digital experiences.
+
+---
+
+⭐️ From **Mahfuz**
