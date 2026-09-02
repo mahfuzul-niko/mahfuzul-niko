@@ -205,10 +205,9 @@ An AI-powered quiz application focused on generating and managing intelligent qu
 
 # 📄 Resume
 
-Interested in working together?
+Interested in my experience and projects?
 
-👉 **[View My Resume]([https://drive.google.com/file/d/1TkUP_VQUzHtCVG1_HvVL3GyD0l49P6Ne/view?usp=sharing](https://drive.google.com/file/d/185uXf_u-nAacyt12B1TjtvbOiwjtK0s6/view?usp=sharing))**
-
+👉 **[View My Resume](https://drive.google.com/file/d/185uXf_u-nAacyt12B1TjtvbOiwjtK0s6/view?usp=sharing)**
 ---
 
 # 🤝 Let's Work Together
