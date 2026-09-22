@@ -5,6 +5,7 @@
 <p align="center">
   <a href="https://github.com/mahfuzul-niko">💻 GitHub</a> •
   <a href="https://www.linkedin.com/in/mahfuzul-niko">💼 LinkedIn</a>
+  <a href="[https://www.linkedin.com/in/mahfuzul-niko](https://docs.google.com/document/d/1F8WknjI5_TbRHARoNWcliW3t8uESDDO0dChoKd2O9KU/edit?usp=sharing)">⚙️ Projects</a>
 </p>
 
 ---
