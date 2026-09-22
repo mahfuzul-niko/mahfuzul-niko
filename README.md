@@ -3,7 +3,6 @@
 ### Full-Stack Developer · Laravel · React · AI · APIs
 
 <p align="center">
-  <a href="https://www.thisisniko.com">🌐 Portfolio</a> •
   <a href="https://github.com/mahfuzul-niko">💻 GitHub</a> •
   <a href="https://www.linkedin.com/in/mahfuzul-niko">💼 LinkedIn</a>
 </p>
