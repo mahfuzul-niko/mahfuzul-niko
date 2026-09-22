@@ -136,56 +136,46 @@ I enjoy taking complex business requirements and turning them into **clean, prac
 
 ---
 
-# ⭐ Featured Projects
+# ⭐ Projects
 
-### 🏨 Aronnonibash — Resort Booking Platform
-
-A complete resort booking system designed to manage rooms, availability, pricing, bookings, and customer reservations.
-
-🔗 **[Visit Aronnonibash](https://aronnonibash.com)**
-
----
-
-### 🏢 Kemea — Real Estate Platform
-
-A modern real-estate platform with property management, listings, search functionality, and business-focused workflows.
-
-🔗 **[Visit Kemea](https://kemea.sohojware.com)**
-
----
-
-### 🎓 EduOrganizer — Education Management
-
-An education management platform supporting classes, instructors, students, attendance, programs, tests, and structured learning workflows.
-
-🔗 **[Open EduOrganizer](https://app.eduorganizer.info)**
-
----
-
-### 🤖 AI Quiz Application
-
-An AI-powered quiz application focused on generating and managing intelligent quiz content.
-
-🔗 **[Try AI Quiz App](https://ajbusiness26.vercel.app/)**
-
----
-
-# 🌐 Live Projects
+## 🚀 Solo Developed
 
 | Project | Link |
 |---|---|
+| 🏨 Tourolla (Aronnonibash) | [tourolla.aronnonibash.com](https://tourolla.aronnonibash.com) |
 | 🏨 Aronnonibash | [aronnonibash.com](https://aronnonibash.com) |
-| 🏢 Kemea | [kemea.sohojware.com](https://kemea.sohojware.com) |
 | 🏢 Samaira Group | [samairagroup.com](https://samairagroup.com) |
-| 🏢 Aranis | [thearanis.com](https://thearanis.com) |
+
+## 🏗️ @ Softvance
+
+**Web**
+
+| Project | Frontend | Backend | Notes |
+|---|---|---|---|
+| DynamicsX | [dynamicsx.it](https://dynamicsx.it) | [admin.dynamicsx.it](https://admin.dynamicsx.it) | [CloudSlicer3D](https://www.cloudslicer3d.com) |
+| Manutenzione | [manutenzione.eu](https://manutenzione.eu) | [admin.manutenzione.eu](https://admin.manutenzione.eu) | — |
+| QuizHS | [quizhs.com](https://quizhs.com) | [admin.quizhs.com](https://admin.quizhs.com) | — |
+| 3-YN | [3-yn.com](https://3-yn.com) | [dashboard.3-yn.com](https://dashboard.3-yn.com) | [Tap Payments](https://os.tap.company) |
+
+**App**
+
+| Project | Link | Notes |
+|---|---|---|
+| Sunset Dance Center | [api.sunsetdancecenter.com](https://api.sunsetdancecenter.com) | [Figma design](https://www.figma.com/design/fcngXa3Agrh3P22qPsxVmV/sunset_dance-%257C%257C-Appswizzerd-%257C%257C-FO21B4F4D5D86?node-id=8948-3930&p=f&t=SoWpRMi6u0z5vEX8-0) |
+
+## 🧾 @ Fara IT and eHishab
+
+| Project | Link |
+|---|---|
+| 🏪 POS eHishab | [pos.ehishab.com](https://pos.ehishab.com) |
 | 🎓 EduOrganizer | [app.eduorganizer.info](https://app.eduorganizer.info) |
-| 🛒 Appletouch | [appletouch.axisshopbd.com](https://appletouch.axisshopbd.com) |
-| 🛒 Urban Glean | [urban.axisshopbd.com](https://urban.axisshopbd.com) |
-| 🛒 Leaf & Life | [leaf.axisshopbd.com](https://leaf.axisshopbd.com) |
-| 🏥 Global Care | [globalcare.axisshopbd.com](https://globalcare.axisshopbd.com) |
+
+**E-Commerce**
+
+| Project | Link |
+|---|---|
 | 🛍️ Sobo Lifestyle | [sobolifestyles.com](https://sobolifestyles.com) |
-| 🛍️ Dream Extreme | [dreamextremebd.com](https://dreamextremebd.com) |
-| 🛍️ Moraqo | [moraqo.com](https://moraqo.com) |
+| 🛒 Phone Paradise BD | [phoneparadisebd.com](https://phoneparadisebd.com) |
 | 🛒 Bikroy Shop | [bikroyshop.com](https://bikroyshop.com) |
 
 ---
